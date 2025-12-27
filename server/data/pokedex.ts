@@ -10032,7 +10032,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	throh: {
 		num: 538,
 		name: "Throh",
-		types: ["Fighting"],
+		types: ["Fighting","Fire"],
 		gender: "M",
 		baseStats: { hp: 120, atk: 100, def: 85, spa: 30, spd: 85, spe: 45 },
 		abilities: { 0: "Guts", 1: "Inner Focus", H: "Mold Breaker" },
@@ -10044,7 +10044,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	sawk: {
 		num: 539,
 		name: "Sawk",
-		types: ["Fighting"],
+		types: ["Fighting","Water"],
 		gender: "M",
 		baseStats: { hp: 75, atk: 125, def: 75, spa: 30, spd: 75, spe: 85 },
 		abilities: { 0: "Sturdy", 1: "Inner Focus", H: "Mold Breaker" },
