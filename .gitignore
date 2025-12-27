@@ -1,0 +1,18 @@
+# lixo local / builds
+pokemon-showdown-custom/
+psclient/
+psclient.tar.gz
+client/
+scripts/
+
+# backups
+*.BACKUP
+*.tar.gz
+
+# node / build
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
